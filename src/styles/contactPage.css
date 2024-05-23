@@ -1,0 +1,24 @@
+.ContactPage {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .ContactPage-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-details {
+    margin-top: 20px;
+  }
+  
+  .contact-details p {
+    margin: 5px 0;
+  }
+  
